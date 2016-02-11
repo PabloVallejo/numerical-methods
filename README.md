@@ -1,2 +1,2 @@
-## Numerical methods for engineering using Python
+# Numerical methods with Python
 
